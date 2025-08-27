@@ -1,0 +1,24 @@
+# Core libraries
+transformers
+datasets
+sentence-transformers
+scikit-learn
+numpy
+pandas
+torch
+
+# Tokenization & text processing
+nltk
+tqdm
+
+# Plotting & analysis
+matplotlib
+seaborn
+scipy
+
+# Huggingface Trainer dependencies
+accelerate
+evaluate
+
+# Optional (Jupyter notebooks / interactive analysis)
+jupyterlab
